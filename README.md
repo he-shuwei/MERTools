@@ -47,6 +47,8 @@ Please cite our paper if you find our work useful for your research:
 
 code: see **./MER2023** 
 
+### 3. Website
+http://merchallenge.cn/
 
 
 ## MERBench
@@ -93,3 +95,6 @@ Please cite our paper if you find our work useful for your research:
 
 code: see **./MER2024** 
 
+### 3. Website
+
+https://zeroqiaoba.github.io/MER2024-website/
