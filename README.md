@@ -34,7 +34,6 @@ Please cite our paper if you find our work useful for your research:
   year={2023}
 }
 ```
-paper: https://dl.acm.org/doi/pdf/10.1145/3581783.3612836
 
 code: see the **./MER2023** folder
 
@@ -55,8 +54,6 @@ Please cite our paper if you find our work useful for your research:
   year={2024}
 }
 ```
-
-paper: https://arxiv.org/pdf/2401.03429
 
 code: see the **./MERBench** folder
 
@@ -80,8 +77,6 @@ Please cite our paper if you find our work useful for your research:
   year={2024}
 }
 ```
-
-paper: coming soon
 
 code: see the **./MER2024** folder
 
