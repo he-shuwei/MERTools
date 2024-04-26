@@ -5,20 +5,30 @@ Correspondence to:
   - Zheng Lian: lianzheng2016@ia.ac.cn
   - Licai Sun: sunlicai2019@ia.ac.cn
 
+
+
 ## Environment
+
 ```shell
 conda env create -f environment.yml
 ```
+
 - If raise errors about "OSError: libtorch_cuda_cpp.so: cannot open shared object file: No such file or directory", please run "pip install -U torch torchaudio --no-cache-dir"
 - If your Cuda version is low (such as 10.2), please check the install instructions for pytorch-relate packages in "https://pytorch.org/get-started/previous-versions"
 
 
-## MER2023 Dataset
-
-To download the dataset, please fill out an [EULA](https://drive.google.com/file/d/1LOW2e6ZuyUjurVF0SNPisqSh4VzEl5lN) and send it to our official email address merchallenge.contact@gmail.com or lianzheng2016@ia.ac.cn. It requires participants to use this dataset only for academic research and not to edit or upload samples to the Internet.
 
 
-## MER2023 Baseline
+## MER2023
+
+### 1. Dataset
+
+To download the dataset, please fill out an [EULA](https://drive.google.com/file/d/1LOW2e6ZuyUjurVF0SNPisqSh4VzEl5lN) and send it to lianzheng2016@ia.ac.cn. It requires participants to use this dataset only for academic research and not to edit or upload samples to the Internet.
+
+
+
+
+### 2. Baseline
 
 [**MER 2023: Multi-label Learning, Modality Robustness, and Semi-Supervised Learning**](https://dl.acm.org/doi/pdf/10.1145/3581783.3612836)<br>
 Zheng Lian, Haiyang Sun, Licai Sun, Jinming Zhao, Ye Liu, Bin Liu, Jiangyan Yi, Meng Wang, Erik Cambria, Guoying Zhao, Björn W. Schuller, Jianhua Tao<br>
@@ -35,7 +45,7 @@ Please cite our paper if you find our work useful for your research:
 }
 ```
 
-code: see the **./MER2023** folder
+code: see **./MER2023** 
 
 
 
@@ -55,16 +65,19 @@ Please cite our paper if you find our work useful for your research:
 }
 ```
 
-code: see the **./MERBench** folder
+code: see **./MERBench** 
 
 
 
-## MER2024 Dataset
+## MER2024
+
+### 1. Dataset
 
 To download the dataset, please fill out an [EULA](coming soon) and send it to our official email address merchallenge.contact@gmail.com. It requires participants to use this dataset only for academic research and not to edit or upload samples to the Internet.
 
 
-## MER2024 Baseline
+
+### 2. Baseline
 
 **MER 2024: Semi-Supervised Learning, Noise Robustness, and Open-Vocabulary Multimodal Emotion Recognition**
 
@@ -78,5 +91,5 @@ Please cite our paper if you find our work useful for your research:
 }
 ```
 
-code: see the **./MER2024** folder
+code: see **./MER2024** 
 
