@@ -1,10 +1,5 @@
 # MERTools
 
-Correspondence to: 
-
-  - Zheng Lian: lianzheng2016@ia.ac.cn
-  - Licai Sun: sunlicai2019@ia.ac.cn
-
 
 
 ## Environment
@@ -75,20 +70,22 @@ code: see **./MERBench**
 
 ### 1. Dataset
 
-To download the dataset, please fill out an [EULA](coming soon) and send it to our official email address merchallenge.contact@gmail.com. It requires participants to use this dataset only for academic research and not to edit or upload samples to the Internet.
+To download the dataset, please fill out an [EULA](https://drive.google.com/file/d/1cXNfKHyJzVXg_7kWSf_nVKtsxIZVa517/view?usp=sharing) and send it to our official email address merchallenge.contact@gmail.com. It requires participants to use this dataset only for academic research and not to edit or upload samples to the Internet.
 
 
 
 ### 2. Baseline
 
-**MER 2024: Semi-Supervised Learning, Noise Robustness, and Open-Vocabulary Multimodal Emotion Recognition**
+[**MER 2024: Semi-Supervised Learning, Noise Robustness, and Open-Vocabulary Multimodal Emotion Recognition**](https://arxiv.org/abs/2404.17113)<br>
+Zheng Lian, Haiyang Sun, Licai Sun, Zhuofan Wen, Siyuan Zhang, Shun Chen, Hao Gu, Jinming Zhao, Ziyang Ma, Xie Chen, Jiangyan Yi, Rui Liu, Kele Xu, Bin Liu, Erik Cambria, Guoying Zhao, Björn W. Schuller, Jianhua Tao<br>
 
 Please cite our paper if you find our work useful for your research:
 
 ```tex
-@article{lian2024mer,
+@inproceedings{lian2023mer,
   title={MER 2024: Semi-Supervised Learning, Noise Robustness, and Open-Vocabulary Multimodal Emotion Recognition},
-  author={Lian, Zheng and Sun, Haiyang and Sun, Licai and etc},
+  author={Lian, Zheng and Sun, Haiyang and Sun, Licai and Wen, Zhuofan and Zhang, Siyuan and Chen, Shun and Gu, Hao and Zhao, Jinming and others},
+  booktitle={arXiv:2404.17113},
   year={2024}
 }
 ```
