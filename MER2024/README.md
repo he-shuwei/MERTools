@@ -1,5 +1,7 @@
 # MER2024 Baseline
 
+## Dataset
+To download the dataset, please fill out an [EULA](https://drive.google.com/file/d/1cXNfKHyJzVXg_7kWSf_nVKtsxIZVa517/view?usp=sharing) and send it to our official email address merchallenge.contact@gmail.com. It requires participants to use this dataset only for academic research and not to edit or upload samples to the Internet.
 
 
 ## Paper
