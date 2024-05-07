@@ -95,3 +95,7 @@ code: see **./MER2024**
 ### 3. Website
 
 https://zeroqiaoba.github.io/MER2024-website/
+
+### 4. Contact
+
+<img src="images\wechat.jpg" alt="wechat " style="zoom:20%;" />
