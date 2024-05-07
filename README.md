@@ -98,4 +98,4 @@ https://zeroqiaoba.github.io/MER2024-website/
 
 ### 4. Contact
 
-<img src="images\wechat.jpg" alt="wechat " style="zoom:20%;" />
+To facilitate communication, we have created a [**WeChat group**](images\wechat.jpg). The first group has reached its maximum number of people. Therefore, we create another group and the messages of both groups will be synchronized. For all notifications, we will also email all participants who signed up for the challenge. Meanwhile, we will put the news on our official website.
