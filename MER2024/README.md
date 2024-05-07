@@ -111,7 +111,9 @@ python main-check.py main_mixture_multiprocess
             --save_root='/share/home/lianzheng/chinese-mer-2023/dataset/mer2024-dataset-process/video-test2-noise' 
 ```
 
+## Contact
 
+To facilitate communication, we have created a [**WeChat group**](images/wechat.jpg). The first group has reached its maximum number of people. Therefore, we create another group and the messages of both groups will be synchronized. For all notifications, we will also email all participants who signed up for the challenge. Meanwhile, we will put the news on our official website.
 
 ## Acknowledgement
 
